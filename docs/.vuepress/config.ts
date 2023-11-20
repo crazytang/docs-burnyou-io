@@ -33,7 +33,7 @@ export default {
             text: 'Transactions',
             link: './Transactions.md'
           },{
-            text: 'BURN',
+            text: '$BURN',
             link: './BURN.md'
           },
         ],
@@ -63,7 +63,7 @@ export default {
             text: '交易',
             link: './Transactions.md'
           },{
-            text: 'BURN',
+            text: '$BURN',
             link: './BURN.md'
           },
         ],
