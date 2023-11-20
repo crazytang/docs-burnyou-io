@@ -1,4 +1,4 @@
-# 交易（押寶拍賣） <font size='4em'><i>ONLY in BurnYou</i></font>
+# 交易（押寶拍賣） <span style='font-size:18px;'><i>ONLY in BurnYou</i></span>
 
 ### 爲什麽我的NFT Battle獲勝後可以升值？
 因爲在Battle開始的同時，BurnYou上進行著獨有的壹種押寶拍賣模式來獲得勝方NFT。就像現實世界的拍賣場景壹樣，押寶式拍賣上交易玩家通過舉牌出價的形式，每壹次舉牌加價4%，來競價獲得勝出的NFT
