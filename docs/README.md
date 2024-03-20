@@ -1,77 +1,83 @@
-# 概述
+# Overview
 
-### ArtsArena 是什麼？
-ArtsArena 是一個透過經營NFT對戰賽事和NFT競猜，促成NFT交易的區塊鏈平台。
-<br/>賽事主要是NFT之間的1V1對戰。 所有賽事均以大眾投票的形式，決出對戰雙方的最終勝負，並將敗方NFT的歸屬權轉移至勝方手上。
-NFT競猜則是不願以地板價出售NFT又有一定的售出需求的賣家以暗牌形式上架自己的NFT，買家對其的售價進行競猜，則有機會以較低價格獲得NFT。
+### What is ArtsArena?
+ArtsArena is a blockchain platform that facilitates NFT transactions by operating NFT battle events and NFT betting.
 
-### ArtsArena 背後的動機是什麼？
-透過對NFT市場提出全新玩法，促進NFT市場的流動性，幫賣家賣出NFT。
+The event is mainly a 1V1 battle between NFTs. All events will be decided by popular vote to determine the final outcome of the two sides, and the ownership rights of the loser's NFT will be transferred to the winner.
 
-### ArtsArena 的強項是什麼？
-- NFT參賽者獲勝後將會獲得敗方NFT的歸屬權，支持直接將其嵌入你的勝利NFT或單獨持有，升值你的NFT。
-- NFT參賽者參與費用為0USDT－身為參賽者您無需擔心報名費或其他任何的費用，甚至還能享受早期參與代幣空投的獎勵。
-- NFT投票者可以參與VotetoEarn挖礦活動。
-- NFT賣家有機會以目標價賣出自己的NFT。
-- NFT買家有機會以低於市價的價格購買到心儀NFT。
-- NFT買家可以透過GuessBid參與BidtoEarn挖礦活動。
-- <span style='font-weight:bold;'>NFT 競猜玩家可以透過暗牌拍賣形式，對NFT進行出價，這是ArtsArena 獨有的拍賣交易模式，ONLYinArtsArena。</span>
+NFT betting means that sellers who are unwilling to sell NFT at the floor price and have a certain demand for sales list their own NFT in the form of a secret card. Buyers who speculate on the selling price will have the opportunity to obtain NFT at a lower price.
 
-### ArtsArena 是否可以升級或更改？
-可以，雖然ArtsArena沒有管理員密鑰，但社區可以透過持有已流通代幣比例發起治理投票以更改規則，否則智能合約代碼是完全不變的。
+### What is the motivation behind ArtsArena?
+By proposing a new way of playing the NFT market, we promote the liquidity of the NFT market and help sellers sell NFT.
 
-### 如何使用ArtsArena？
+### What are ArtsArena’s strengths?
+- After the NFT participant wins, he will obtain the ownership rights of the losing NFT, which can be directly embedded in your winning NFT or held separately to increase the value of your NFT.
+
+- The participation fee for NFT participants is 0 USDT - as a participant, you do not need to worry about registration fees or any other fees, and you can even enjoy the rewards of early participation in token airdrops.
+
+- NFT voters can participate in the VotetoEarn mining activity.
+
+- NFT sellers have the opportunity to sell their NFTs at the target price.
+
+- NFT buyers have the opportunity to purchase their favorite NFT at a price lower than the market price.
+
+- NFT buyers can participate in the BidtoEarn mining activity through GuessBid.
+
+- <span style='font-weight:bold;'>NFT betting players can bid on NFT through a dark auction, which is ArtsArena’s unique auction transaction model, ONLY in ArtsArena.</span>
+
+### Can ArtsArena be upgraded or changed?
+Yes, although ArtsArena does not have an administrator key, the community can initiate a governance vote to change the rules by holding the proportion of circulated tokens. Otherwise, the smart contract code is completely unchanged.
+
+### How to use ArtsArena?
 <span style='font-weight:bold;'>Battle</span>
 <br/>
 <br/>
-首先，您需要點擊ArtsArena.io，連結您的錢包，授權您的NFT，開始等待或接受對戰，同時您可以參與其他賽事的投票。
+First, you need to click on ArtsArena.io, connect your wallet, authorize your NFT, start waiting or accepting the battle, and you can participate in voting for other events.
 <br/>
 <br/><span style='font-weight:bold;'>Guess Bid</span>
 <br/>
 <br/>
-首先，您需要點擊ArtsArena.io，連結您的錢包，進入GuessBid主頁，出價或創造競猜，等待拍賣結束。
+First, you need to click on ArtsArena.io, connect your wallet, enter the GuessBid homepage, bid or create a guess, and wait for the auction to end.
 
-### 使用ArtsArena 的條件是什麼？
-第一步，您只需要...
-- 一個加密錢包
+### What are the conditions for using ArtsArena?
+As a first step, you just need...
+- A crypto wallet包
 
-第二步，如果您想成為Battle玩家對戰NFT只需要...
-- 一個以上的NFT
-<br>如果您想成為GuessBid玩家只需要...
-- 一個以上的NFT或一些MATIC
-<br>如果您想成為<span style="text-decoration: underline;">投票玩家</span>欣賞NFT只需要...
-- 一個放大鏡
-<br>（早期開放白名單Free Mint之後需要50 MATIC購買）
+The second step, if you want to become a Battle player to compete with NFT, you only need to...
+- More than one NFT
+<br>If you want to become a GuessBid player just need...
+- More than one NFT or some MATIC
+<br>If you want to become a <span style="text-decoration: underline;">voting player</span> and appreciate NFT, all you need to do is...
+- a magnifying glass
+<br>(Early opening of whitelist Free Mint requires 50 MATIC to purchase)
 
-第三步，如果您想最大化您的挖礦收益...
-- 可以试试第二步中的全部玩家角色，他们互相并不冲突
+The third step, if you want to maximize your mining profits...
+- You can try all the player characters in the second step, they do not conflict with each other
 
-### ArtsArena 的 Battle 形式是什麼？
+### What is ArtsArena’s Battle format?
 - <span style="font-weight:bold;">NFT 1v1 Battle</span>
 
-  - 任意NFT均可摆擂或挑擂，互相选择对手开战；由大众投票决定输赢，落败方NFT的归属权转移。
+  - Any NFT can be challenged or challenged, and each other chooses an opponent to start a battle; the winner or loser is decided by public vote, and the ownership rights of the losing party's NFT are transferred.
 
-### ArtsArena 的 Bid 形式是什麼？
+### What is the Bid form for ArtsArena?
 - <span style="font-weight:bold;">GuessBid</span>
 
-  - 採用全新玩法，賣家以暗牌形式設立自己的目標價與保留價。 買家對其進行自由出價，在保留價以上最接近目標價的報價達成成交。
+  - Using a new gameplay, sellers set their own target prices and reserve prices in the form of hidden cards. Buyers make free bids, and the deal is concluded with the offer that is above the reserve price and closest to the target price.
 
-### 使用ArtsArena 會有挖礦獎勵嗎？
-有的。且，您可以同时是竞猜玩家与对战玩家，更有甚者，您还可以同时是投票玩家。请记住ArtsArena上所有的玩家角色有挖矿奖励，所以尽可能多试试ArtsArena的各种角色是您最佳的选择。
+### Are there any mining rewards for using ArtsArena?
+some. Moreover, you can be a betting player and a competing player at the same time. What's more, you can also be a voting player at the same time. Please remember that all player characters on ArtsArena have mining rewards, so your best option is to try out as many different characters in ArtsArena as possible.
 
-### ArtsArena 是否收取任何費用？
-- 您不需要支付任何進場或出場費用
-- 每當您的一個NFT獲勝或交易後，ArtsArena與您分享升值的權益將收取一定比例的交易手續費。
+### Does ArtsArena charge any fees?
+- You don't need to pay any entry or exit fees.
+- Whenever one of your NFTs wins or is traded, ArtsArena will charge a certain percentage of the transaction fee to share the appreciation with you.
 
-### 我會虧本嗎？
-- 作為非保管性的系統，發送給協議的所有令牌都將透過演算法進行保存和管理，不會受到任何人或機構的干擾。 這意味著您的資金將僅受智能合約代碼中規定的規則約束
-- 參加NFT對戰，輸方會喪失整個NFT的價值，而勝方有可能可以成倍升值（取決於投票數）
-- 參加GuessBid，賣家會以目標價附近賣出自己的NFT，買家會低於市價買到心儀的NFT。 若流拍或無效出價（低於保留價）錢會自動退回帳戶中。
-- 請注意，儘管我們團隊系統進行了非常認真的審核，但我們無法完全排除駭客或系統漏洞導致的玩家損失（請參閱免責聲明）。
+### Will I lose money?
+- As a non-custodial system, all tokens sent to the protocol will be saved and managed through algorithms without interference from any person or organization. This means your funds will only be subject to the rules stated in the smart contract code.
+
+- If you participate in an NFT battle, the losing party will lose the entire value of the NFT, while the winning party may be able to increase its value exponentially (depending on the number of votes).
+
+- By participating in GuessBid, sellers will sell their NFTs near the target price, and buyers will buy their favorite NFTs at a lower price than the market price. If the auction fails or the bid is invalid (lower than the reserve price) the money will be automatically returned to the account.
+
+- Please note that despite the very careful review of our team's systems, we cannot completely rule out player losses caused by hackers or system vulnerabilities (see disclaimer).
 
 
-
-
-
-
-![](../images/pie.png)

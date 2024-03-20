@@ -1,34 +1,34 @@
-# 投票（放大鏡）
+# Vote (Magnifying Glass)
 
-### 什麼是放大鏡？
+### What is a magnifying glass?
 
-放大鏡是一款代表玩家對ArtsArena平台上的NFTBattle所擁有的投票權與承載該玩家對藏品鑑賞力水準的NFT，是一種權益。
+The Magnifying Glass is an NFT that represents the player's voting rights for the NFTBattle on the ArtsArena platform and carries the player's appreciation of the collection. It is a kind of right.
 
-### 為什麼需要放大鏡來投票？
+### Why do you need a magnifying glass to vote?
 
-- 因為創建N個加密錢包的成本為0而投票卻是按數量結算勝敗，所以為了防止刷票則需要一項准入證明來保證每一次投票的公正性
+- Because the cost of creating N encrypted wallets is 0 and voting is based on the number of votes, an access certificate is needed to prevent vote manipulation to ensure the fairness of each vote
 
-- 放大鏡是投票玩家鑑賞程度的體現
+- The magnifying glass is a reflection of the appreciation of voting players
 
-- 放大鏡是投票玩家挖礦的憑證（Vote2Earn）
+- The magnifying glass is the voucher for voting players to mine (Vote2Earn)
 
-### 如何使用放大鏡投票？
+### How to vote using a magnifying glass?
 
-- 一個錢包帳戶只能擁有一個放大鏡
+- A wallet account can only have one magnifying glass
 
-- 一个放大镜对同一场Battle只能投一次票
+- A magnifying glass can only vote once for the same Battle.
 
-### 如何獲得放大鏡？
+### How to get a magnifying glass?
 
-- 購買鑄造
+- Buy casting
 
-- 白名單鑄造（免費）
+- Whitelist casting (free)
 
-### 放大鏡可以轉移嗎？
+### Can the magnifying glass be transferred?
 
-不可以
+Can't
 
-### 平台上只有放大鏡權益嗎？
+### Are there only magnifying glass rights on the platform?
 
-目前來說是的。 但之後我們將會結合敘事與路線推出頭像類基礎NFT，給予持有玩家每個不同時段的特有權益，同時第二方面增加上自身作為這個角色的代入感，增強ArtsArena社群認同，讓用戶得到自己是專案方與主人翁的感受體驗。
+For now, yes. But later we will combine the narrative and route to launch avatar-based basic NFTs, giving holders unique rights and interests at different times. At the same time, the second aspect will increase the sense of immersion in this role, enhance the recognition of the ArtsArena community, and allow users to gain The feeling of being the project owner and project owner.
 

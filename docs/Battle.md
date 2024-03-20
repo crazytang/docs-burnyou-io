@@ -1,33 +1,35 @@
-# 對戰
+# Battle
 
 
-### 為什麼我要使用ArtsArena進行NFT對戰？
-- 您對戰獲勝的NFT將有可能升值一旦在battle中獲勝，您將贏得敗方NFT
-- 您的對戰過程是您NFT及合輯的展示過程即使您手中的NFT戰敗，所屬NFT合集也得到了展示
-- 您參與對戰所獲得的ArtsArena平台代幣有可能升值（NFT產業進入下半場，上半場屬於生產者，下半場屬於流通平台類似ArtsArena）
+### Why should I use ArtsArena for NFT battles?
+- The NFT you win in the battle will likely increase in value. Once you win the battle, you will win the losing NFT.
 
-### 為什麼我的NFT 對戰獲勝後可以升值？
-因為在Battle結束的同時，勝方將會獲得敗方NFT的所屬權。 勝方既可以將其嵌入在勝利的NFT上，也可單獨持有進行自由買賣。
+- Your battle process is the display process of your NFT and collection. Even if the NFT in your hand is defeated, the NFT collection it belongs to is also displayed.
 
-### 對戰的流程是怎麼樣的？
-- 發起
+- The ArtsArena platform tokens you get from participating in the battle may appreciate in value (the NFT industry has entered the second half, the first half belongs to the producers, and the second half belongs to the circulation platform similar to ArtsArena)
 
-  - 任何玩家可發動擂台，等待對手應戰或直接參與現有的擂台
+### Why can my NFT increase in value after winning a battle?
+Because when the Battle ends, the winner will obtain the ownership of the loser's NFT. The winner can embed it on the winning NFT, or hold it separately for free trading.
 
-- 對戰中
+### What is the process of the battle?
+- Initiate
 
-  - 採用大眾投票，為期24小時
+  - Any player can activate a arena, wait for opponents to challenge, or directly participate in an existing arena.
 
-- 對戰後
+- In battle
 
-  - 公佈結果票數多的一方勝出，票數少的落敗
+  - Use public voting for 24 hours
 
-### 我可以購買在對戰中的NFT嗎？
-不可以，對戰中的NFT圍觀者不可以進行購買，只有在對戰結束後可以進行一口價購買。
+- After the battle
 
-### Polygon 是 ArtsArena 唯一接受的對戰公鏈嗎？
-不是的，ArtsArena是圍繞區塊鏈生態建立的應用。
+  - The party with more votes wins, and the party with less votes loses.
 
-目前我們的應用層位於Polygon，如果您的NFT在Polygon主網上，您在Polygon上將NFT授權與質押後，未來所有的Battle、交易結算都將在Polygon上發生。
+### Can I purchase NFTs in a battle?
+No, onlookers cannot purchase NFT during the battle. They can only buy it at a fixed price after the battle.
 
-在規劃未來的發展藍圖時，我們也計畫拓展至更廣泛的應用層領域，4 月20日後我們將開啟連結Solana的計劃,請敬請期待。
+### Is Polygon the only public chain that ArtsArena accepts for competition?
+No, ArtsArena is an application built around the blockchain ecosystem.
+
+Currently our application layer is located on Polygon. If your NFT is on the Polygon main network, after you authorize and pledge the NFT on Polygon, all future battles and transaction settlements will occur on Polygon.
+
+When planning our future development blueprint, we also plan to expand to a wider range of application layer areas. After April 20, we will launch a plan to connect to Solana, so please stay tuned.

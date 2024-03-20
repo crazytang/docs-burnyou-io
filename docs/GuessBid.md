@@ -1,54 +1,53 @@
-# 競猜
+# Betting
 
-### Guess Bid 是什麼？
+### What is Guess Bid?
 
-ArtsArena 上進行的獨特的購買NFT的競猜拍賣模式。 就像現實世界的暗牌拍賣場景一樣，買家在不知道賣家目標價狀況的前提下，提交自己的出價。 在GuessBid結束後在保留價以上距離賣家目標價絕對值最近的買家獲得該NFT，趣味性十足。
+A unique bidding and auction model for purchasing NFTs on ArtsArena. Just like a real-world dark-card auction scenario, buyers submit their bids without knowing the seller's target price. After the GuessBid ends, the buyer who is closest to the absolute value of the seller's target price above the reserve price will get the NFT, which is full of fun.
 
-### 為什麼我要使用ArtsArena進行GuessBid？
+### Why should I use ArtsArena for GuessBid?
 
-- 對於賣家來說，可以幫助我在一定時間內賣出我不想以地板價賣出的NFT，不用被動地等待買家。
+- For sellers, it can help me sell NFTs that I don’t want to sell at the floor price within a certain period of time, without having to passively wait for buyers.
 
-- 對於買家來說，GuessBid可以幫助我有機會以低於市價的價格購買到NFT。
+- For buyers, GuessBid can help me have the opportunity to purchase NFT at a price lower than the market price.
 
-### Guess Bid 的規則？ 什麼是保留價，什麼是目標價？
+### Rules for Guess Bid? What is a reserve price and what is a target price?
 
-- 在GuessBid中的每次出價都是公開的，但賣家的保留價與目標價為暗牌形式，只有在保留價以上的出價才為有效出價。 在保留價以上，距離目標價最近的出價將會達成成交。
+- Every bid in GuessBid is public, but the seller's reserve price and target price are in the form of a hidden price. Only bids above the reserve price are valid bids. Above the reserve price, the bid closest to the target price will be completed.
 
-保留價與目標價在拍賣（3天）結束後公開。
+The reserve price and target price will be disclosed after the auction ends (3 days).
 
-- 保留價：賣家設立的最低心理成交價。
+- Reserve price: The lowest psychological transaction price set by the seller.
 
-- 目標價：賣家設立的最佳心理成交價。
+- Target price: The best psychological transaction price set by the seller.
 
-### 競猜的流程是怎麼樣的？
+### What is the process of betting?
 
-- 如果我是買家
+- If i were a buyer
 
-   1. 連線錢包，進入GuessBid首頁選擇已上架NFT出價
-   2. 系統檢測帳戶是否有足夠代幣
+   1. Connect to the wallet online, go to the GuessBid homepage and select the listed NFT to bid
+   2. The system checks whether the account has enough tokens
      
-      1. 是否質押，否－結束
-      2. 是否質押，是－－繼續出價
+      1. Whether to pledge, no - end
+      2. Pledge or not? Yes - continue to bid
 
-   3. 出價成功，等待拍賣結束
-   4. 出價是否滿足在保留價以上
+   3. The bid was successful, waiting for the auction to end
+   4. Whether the bid is above the reserve price
 
-      1. 在保留價以下：出局，出價金額解除鎖定
-      2. 在保留價以上：有效出價
+      1. Below the reserve price: out, bid amount unlocked
+      2. Above Reserve: Valid Bid
 
-   5. 是否為最接近價格，是－成交
+   5. Is it the closest price? Yes - transaction
 
-- 如果我是賣家
+- If i am a seller
 
-   1. 連結錢包，進入GuessBid首頁創建競猜
+   1. Connect the wallet and enter the GuessBid homepage to create a guess.
 
-      1. 質押 NFT，輸入保留價與目標價，確認創建
+      1. Pledge NFT, enter reserve price and target price, and confirm creation
   
-   2. 等待買家出價
-   3. 拍賣結束
+   2. Waiting for buyer's bid
+   3. Auction ends
 
-      1. 出價次數=0，流拍結束。 賣家NFT解除鎖定（可自取）
-      2. 出價次數>0，是否有保留價以上的出價
+      1. The number of bids = 0, the auction ends. The seller's NFT is unlocked (can be picked up by yourself)
+      2. Number of bids > 0, are there any bids above the reserve price?
 
-   4. 篩選出符合條件的最接近的出價，成交結束。 未成交買家出價金
-額解除鎖定
+   4. The closest bid that meets the conditions is filtered out, and the transaction is completed. Unlocked buyer’s bid amount

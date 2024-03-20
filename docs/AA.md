@@ -1,67 +1,67 @@
-# $AA 獎勵與分配
+# $AA Rewards and Distributions
 
-### <u>什麼是$AA？</u>
+### <u>What is $AA?</u>
 
- $AA 是基於以太坊主網發行的ERC20代幣，同時是ArtsArena智能合約的治理代幣，對ArtsArena智能合約代碼擁有治理權，並擁有該智能合約國庫資金的投票權和撥款權。
+ $AA is an ERC20 token issued based on the Ethereum main network. It is also the governance token of the ArtsArena smart contract. It has governance rights over the ArtsArena smart contract code, and has voting rights and appropriation rights for the treasury funds of the smart contract.
 
-### <u>$AA 的最大供應量是多少？</u>
+### <u>What is the maximum supply of $AA?</u>
 
- $AA 的最大供應量為1，000,000,000個代幣（10億枚）
+ The maximum supply of $AA is 1,000,000,000 tokens (1 billion)
 
-### <u>$AA 的配發時間表是什麼？</u>
+### <u>What is the distribution schedule for $AA?</u>
 
-社區發行（在LP激勵和社區儲備之外）遵循每年減半的時間表，由以下函數描述：510,000,000*(1–0.5^year)。 設定這條發行曲線的目的是有力地激勵早期採用者，同時保持一定的長期激勵。
+Community issuance (outside of LP incentives and community reserves) follows an annual halving schedule, described by the following function: 510,000,000*(1–0.5^year). The purpose of setting this release curve is to strongly incentivize early adopters while maintaining some long-term incentives.
 
 ![](../images/distribution.png)
 
-### <u>$AA 的創世分配是什麼？</u>
+### <u>What is the genesis distribution of $AA?</u>
 
-10 億枚$AA代幣在AA智能合約提前鑄造，其中
+1 billion $AA tokens are minted in advance in the AA smart contract, of which
 
-- 5.1億枚
+- 510 million pieces
 
-    - 放入Community 帳戶
+    - Put in Community account
 
-          鎖定方案
+          Locking scheme
 
-             全流通，智能合約以空投活動分配
+             Full circulation, smart contracts are distributed through airdrop activities
 
--  4.9億枚
+-  490 million pieces
 
-    - 放入【Core團隊多簽帳號】，4人多簽
+    - Put in [Core team multi-signature account], 4 people can multi-sign
 
-          鎖定方案
+          Locking scheme
 
-             4.9 億枚按上線1週年25%、2週年25%，3週年25%,4週年25%逐年解鎖
+             490 million tokens will be unlocked year by year at 25% on the 1st anniversary, 25% on the 2nd anniversary, 25% on the 3rd anniversary, and 25% on the 4th anniversary.
 
-             每年解鎖期，Core團隊對此期流通代幣進行多簽分配
+             During the annual unlocking period, the Core team conducts multi-signature distribution of the circulating tokens in this period.
 
-- 我們的以太坊部署地址是
+- Our Ethereum deployment address is
 
-  <a href="https://www.baidu.com" target="_blank" style="text-decoration: underline;">0xb0a0D86BA684e92baC4Afb76be4BCfBe755a2dc7</a>
+  <a href="" target="_blank" style="text-decoration: underline;">0xb0a0D86BA684e92baC4Afb76be4BCfBe755a2dc7</a>
 
-  來自任何其他地址的部署都應被視為無效- <span style="font-weight:bold;">不要</span> 與它們互動。
+  Deployments from any other addresses should be considered invalid - <span style="font-weight:bold;">Do not</span> interact with them.
 
-### <u>我該如何賺取$AA？</u>
+### <u>How do I earn $AA?</u>
 
-任何使用ArtsArena.io的動作都能賺取$AA
+Earn $AA for any action using ArtsArena.io
 
 eg
 
-- 參與對抗或競猜
+- Participate in competition or betting
 
-- 分享ArtsArena.io給朋友
+- Share ArtsArena.io with friends
 
-- 在ArtsArena 上購買或賣出NFT
+- Buy or Sell NFTs on ArtsArena
 
-### <u>那可以直接購買$AA嗎？</u>
+### <u>Can I buy $AA directly?</u>
 
-可以，在ArtsArena.io上的AMM池中購買。
+Yes, purchase from the AMM pool on ArtsArena.io.
 
-### <u>我可以用$AA做什麼？</u>
+### <u>What can I do with $AA?</u>
 
- $AA 持有者可以參與專案的治理，包括但不限於各類玩法、路線圖、手續費的調整、國庫資金使用用途等等。
+ $AA holders can participate in the governance of the project, including but not limited to various gameplays, roadmaps, fee adjustments, use of treasury funds, etc.
 
-### <u>$AA 有空投嗎？</u>
+### <u>Is there an airdrop for $AA?</u>
 
-有，ArtsArena 有預留一部分空投代幣用於早期參與盲挖測試的玩家甚至是還不只一期空投，請您期待。
+Yes, ArtsArena has reserved a portion of the airdrop tokens for players who will participate in the blind mining test in the early stages, and there may even be more than one airdrop, so please look forward to it.
