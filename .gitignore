@@ -1,0 +1,9 @@
+node_modules
+.temp
+.cache
+/.idea/.gitignore
+/.idea/docs-burnyou-io.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/yarn.lock
+/docs/.vuepress/dist/*
