@@ -1,35 +1,35 @@
 # Battle
 
 
-### Why should I use ArtsArena for NFT battles?
-- The NFT you win in the battle will likely increase in value. Once you win the battle, you will win the losing NFT.
+### <u>Whyshould I use ArtsArena.io for NFT battles?</u>
+- Your NFT(s) that wins in battle may appreciate in value.Once you win in battle, you will acquire the defeated NFT(s), on the other words, you simply have one more NFT in your account if you win.
 
-- Your battle process is the display process of your NFT and collection. Even if the NFT in your hand is defeated, the NFT collection it belongs to is also displayed.
+- The battle process serves as a showcase for your NFT(s) and collection that means even if your NFT(s) loses in battle, your NFT collection still gets promotion in certain level.
 
-- The ArtsArena platform tokens you get from participating in the battle may appreciate in value (the NFT industry has entered the second half, the first half belongs to the producers, and the second half belongs to the circulation platform similar to ArtsArena)
+- There are some appreciation potential of ArtsArena.io token($AA) as NFT industry have entered second quarter. Where the first quarter belonged to NFT creators, the second quarter would belong to liquidity provider of NFT, just like ArtsArena.io.
 
-### Why can my NFT increase in value after winning a battle?
-Because when the Battle ends, the winner will obtain the ownership of the loser's NFT. The winner can embed it on the winning NFT, or hold it separately for free trading.
+### <u>WhycanmyNFT(s) appreciate in value after winning a battle?</u>
+ Because at the end of the battle, the winner will acquire ownership of the defeated NFT(s). The winner can either embed it into their winning NFT or hold it separately for trading.
 
-### What is the process of the battle?
-- Initiate
+### <u>What is the process of battling?</u>
+- Start
 
-  - Any player can activate a arena, wait for opponents to challenge, or directly participate in an existing arena.
+  - Any player could host arena to wait for opponents or directly participate in existing arenas.
 
 - In battle
 
-  - Use public voting for 24 hours
+  - Using a magnifier to vote, with a duration of 24 hours.
 
-- After the battle
+- After Battle
 
-  - The party with more votes wins, and the party with less votes loses.
+  -  The side with the higher number of votes announced as the winner, while the side with fewer votes is declared as the loser.
 
-### Can I purchase NFTs in a battle?
-No, onlookers cannot purchase NFT during the battle. They can only buy it at a fixed price after the battle.
+### <u>Can I purchase the NFT(s) involved in the battle?</u>
+No, spectators of the battle cannot make purchases. Only after the battle concludes can the NFT(s) be bought at a fixed price section.
 
-### Is Polygon the only public chain that ArtsArena accepts for competition?
-No, ArtsArena is an application built around the blockchain ecosystem.
+### <u>Is Polygon the only blockchain that ArtsArena.io accepts for battles?</u>
+No, ArtsArena.io is an application built around the blockchain ecosystem.
 
-Currently our application layer is located on Polygon. If your NFT is on the Polygon main network, after you authorize and pledge the NFT on Polygon, all future battles and transaction settlements will occur on Polygon.
+Currently, our application layer resides on Polygon. If your NFT(s) is on the Polygon mainnet, after you authorize and stake your NFT(s) on Polygon, all future battles and transaction settlements will occur on Polygon.
 
-When planning our future development blueprint, we also plan to expand to a wider range of application layer areas. After April 20, we will launch a plan to connect to Solana, so please stay tuned.
+However, as part of our future development roadmap, we also plan to expand into broader application layer domains.In mid of 2024, we will initiate plans to connect with Solana. Please stay tuned!

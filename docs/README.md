@@ -1,83 +1,94 @@
 # Overview
 
-### What is ArtsArena?
-ArtsArena is a blockchain platform that facilitates NFT transactions by operating NFT battle events and NFT betting.
+### <u>What is ArtsArena?</u>
+ArtsArena.io is a blockchain platform that facilitates NFT trading through organizing NFT battle events and NFT guess bid event.
 
-The event is mainly a 1V1 battle between NFTs. All events will be decided by popular vote to determine the final outcome of the two sides, and the ownership rights of the loser's NFT will be transferred to the winner.
+The NFT battle events determine the winner by public voting, AA smart
+ contracts would transfer the ownership of the defeated NFT to the winner account.
 
-NFT betting means that sellers who are unwilling to sell NFT at the floor price and have a certain demand for sales list their own NFT in the form of a secret card. Buyers who speculate on the selling price will have the opportunity to obtain NFT at a lower price.
+The NFT guess bid event servers SELLERs who are unwilling to sell
+ their NFT(s) at floor prices but have a demand for selling. The rule is unique and simple, that seller DO NOT yet show target price until bidding completes. On the other hand BUYERs guess to bid the seller target price, whoever make the closest bid to target price but also above the reserve price secures the deal. and AA smart contract make transaction complete automatically.
 
-### What is the motivation behind ArtsArena?
-By proposing a new way of playing the NFT market, we promote the liquidity of the NFT market and help sellers sell NFT.
+### <u>What is the motivation behind ArtsArena.io?</u>
+By proposing innovative gameplay in the NFT market, ArtsArena.io aims
+ to enhance market liquidity and facilitate the sale of NFT(s) for sellers.
 
-### What are ArtsArena’s strengths?
-- After the NFT participant wins, he will obtain the ownership rights of the losing NFT, which can be directly embedded in your winning NFT or held separately to increase the value of your NFT.
+### <u>What are the strengths of ArtsArena.io?</u>
 
-- The participation fee for NFT participants is 0 USDT - as a participant, you do not need to worry about registration fees or any other fees, and you can even enjoy the rewards of early participation in token airdrops.
+- AWinners of NFT battles gain ownership of the defeated NFT, allowing them to embed it directly into their winning NFT or hold it separately to appreciate the value of their NFT.
 
-- NFT voters can participate in the VotetoEarn mining activity.
+- As a battle player, you do not need to pay registration fees nor any other costs, gas fee is given by the way. Moreover you would get some AIRDROP for appreciating your early participation.
 
-- NFT sellers have the opportunity to sell their NFTs at the target price.
+- As a NFT voter, you would vote for your favourite NFT(s) in the battle field. Please join free mint event of our magnifier NFT to enjoy 'Vote to Earn'.
 
-- NFT buyers have the opportunity to purchase their favorite NFT at a price lower than the market price.
+- As a NFTseller,you could sell their NFT(s) at target prices.
 
-- NFT buyers can participate in the BidtoEarn mining activity through GuessBid.
+- As a NFT buyer,you could purchase desired NFT(s) at prices lower than market rates.
 
-- <span style='font-weight:bold;'>NFT betting players can bid on NFT through a dark auction, which is ArtsArena’s unique auction transaction model, ONLY in ArtsArena.</span>
+- As a NFT buyer,you could participate in the Bid to Earn mining event through Guess Bid.
 
-### Can ArtsArena be upgraded or changed?
-Yes, although ArtsArena does not have an administrator key, the community can initiate a governance vote to change the rules by holding the proportion of circulated tokens. Otherwise, the smart contract code is completely unchanged.
+- <span style='font-weight:bold;'>As a NFT guess bid players,you can bid on NFT(s) through a unique auction format called blind auction, which is exclusive to ArtsArena.io.</span>
 
-### How to use ArtsArena?
+### <u>Can ArtsArena.io be upgraded or changed?</u>
+ArtsArena.io has no admin key, but governance votes would take place if a undergo rule needs to be changed or upgraded. Otherwise, the smart contract code remains unchanged.
+
+### <u>How to use ArtsArena.io?</u>
 <span style='font-weight:bold;'>Battle</span>
 <br/>
 <br/>
-First, you need to click on ArtsArena.io, connect your wallet, authorize your NFT, start waiting or accepting the battle, and you can participate in voting for other events.
+First, you would visit ArtsArena.io.io and connect your wallet to authorize your NFT(s) in order to wait or accept challenges. At the same time, you would participate in voting event of other battles.
 <br/>
 <br/><span style='font-weight:bold;'>Guess Bid</span>
 <br/>
 <br/>
-First, you need to click on ArtsArena.io, connect your wallet, enter the GuessBid homepage, bid or create a guess, and wait for the auction to end.
+ First, you would visit ArtsArena.io.io and connect your wallet.Then go to the Guess Bid homepage, where you can place bids or create guesses(sell).
 
-### What are the conditions for using ArtsArena?
-As a first step, you just need...
+### <u>How do I get started?</u>
+Step 1: You only need...
 - A crypto wallet
 
-The second step, if you want to become a Battle player to compete with NFT, you only need to...
-- More than one NFT
-<br>If you want to become a GuessBid player just need...
-- More than one NFT or some MATIC
-<br>If you want to become a <span style="text-decoration: underline;">voting player</span> and appreciate NFT, all you need to do is...
-- A magnifying glass
-<br>(Early opening of whitelist Free Mint requires 50 MATIC to purchase)
+Step 2: If you would like to be a NFT Battle player,you only need...
 
-The third step, if you want to maximize your mining profits...
-- You can try all the player characters in the second step, they do not conflict with each other
+- One or more NFT(s).
 
-### What is ArtsArena’s Battle format?
-- <span style="font-weight:bold;">NFT 1v1 Battle</span>
+   If you want to become a Guess Bid player, you only need:
 
-  - Any NFT can be challenged or challenged, and each other chooses an opponent to start a battle; the winner or loser is decided by public vote, and the ownership rights of the losing party's NFT are transferred.
+- One or more NFT(s) or some Matic.
 
-### What is the Bid form for ArtsArena?
-- <span style="font-weight:bold;">GuessBid</span>
+   If you would like to be a NFT voter, you only need...
 
-  - Using a new gameplay, sellers set their own target prices and reserve prices in the form of hidden cards. Buyers make free bids, and the deal is concluded with the offer that is above the reserve price and closest to the target price.
+- A magnifier (ERC-721 NFT)
+<br>(You need 50 matic to purchase one after free mint period.)
 
-### Are there any mining rewards for using ArtsArena?
-some. Moreover, you can be a betting player and a competing player at the same time. What's more, you can also be a voting player at the same time. Please remember that all player characters on ArtsArena have mining rewards, so your best option is to try out as many different characters in ArtsArena as possible.
+Step 3: If you would like to maximize your token earning.
+-  You are very welcome to have a try all the player roles as they are not mutually exclusive.
 
-### Does ArtsArena charge any fees?
-- You don't need to pay any entry or exit fees.
-- Whenever one of your NFTs wins or is traded, ArtsArena will charge a certain percentage of the transaction fee to share the appreciation with you.
+### <u>What is the battle format of ArtsArena.io?</u>
+- <span style="font-weight:bold;">NFT Battle</span>
 
-### Will I lose money?
-- As a non-custodial system, all tokens sent to the protocol will be saved and managed through algorithms without interference from any person or organization. This means your funds will only be subject to the rules stated in the smart contract code.
+  - Battle player could host arena wait for opponents or make a challenge directly to the exist arena. Battle result is determined by public voting.The ownership of the defeated NFT is transferred to the winner.
 
-- If you participate in an NFT battle, the losing party will lose the entire value of the NFT, while the winning party may be able to increase its value exponentially (depending on the number of votes).
+### <u> What is the bid format of ArtsArena.io?</u>
+- <span style="font-weight:bold;">Guess Bid</span>
 
-- By participating in GuessBid, sellers will sell their NFTs near the target price, and buyers will buy their favorite NFTs at a lower price than the market price. If the auction fails or the bid is invalid (lower than the reserve price) the money will be automatically returned to the account.
+  - Using an innovative gameplay, sellers set their target price and reserve price at both UNSHOWN. Buyers try guessing to bid on this NFT, and the closest bid to target price but also above the reserve price secures the deal.
 
-- Please note that despite the very careful review of our team's systems, we cannot completely rule out player losses caused by hackers or system vulnerabilities (see disclaimer).
+### <u>Are there mining rewards when using ArtsArena.io?</u>
+Yes, there are definitely several mining rewards available when using ArtsArena.io. You could simultaneously participate as a Guess Bid player,a Battle player, and even a voting player. Keep in mind that all player roles on ArtsArena.io come with mining rewards, so trying out various roles on ArtsArena.io is your best choice.
+
+### <u>Does ArtsArena.io charge any fees?</u>
+- You do not need to pay fees of registering your NFT(s) to battle or guess bid.
+- ArtsArena.io would share a little percentage of the transaction fee ONLY if your NFT(s) have been successfully price appreciated or been traded.
+
+### <u>Will I incur losses?</u>
+- As an non-custodial system, all tokens sent to the protocol will be stored and managed through algorithms, without interference from any individual or institution. This means your funds will be solely governed by the rules specified in the smart contract code.
+
+- Participating in NFT battles can result in the loss of the entire value of the defeated NFT(s) for the loser, while the winner has the potential to appreciate wining NFT value simply because there is one more NFT now in the account of winner.
+
+- Engaging in Guess Bid allows sellers to sell their NFT(s) near the target price, and buyers have potential to purchase desired NFT(s) below market price. If the auction fails or if there is an invalid bid (below the reserve price), the money will be automatically refunded to the buyer account.
+
+- Please note that, while we have conducted a very thorough review of our
+ system, we cannot entirely eliminate the possibility of player losses due
+ to hackers or system vulnerabilities (please refer to the disclaimer).
 
 

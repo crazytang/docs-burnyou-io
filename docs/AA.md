@@ -1,67 +1,65 @@
-# $AA Rewards and Distributions
+# $AA rewards and distribution
 
 ### <u>What is $AA?</u>
 
- $AA is an ERC20 token issued based on the Ethereum main network. It is also the governance token of the ArtsArena smart contract. It has governance rights over the ArtsArena smart contract code, and has voting rights and appropriation rights for the treasury funds of the smart contract.
+ $AA is an ERC-20 token on the Ethereum mainnet, functioning as the governance token for the ArtsArena.io smart contract. It provides governance control over the ArtsArena.io smart contract code, as well as voting and allocation rights for treasury funds.
 
-### <u>What is the maximum supply of $AA?</u>
+### <u> What is $AA's maximum supply?</u>
 
- The maximum supply of $AA is 1,000,000,000 tokens (1 billion)
+ The maximum supply of $AAis 1,000,000,000 tokens.
 
 ### <u>What is the distribution schedule for $AA?</u>
 
-Community issuance (outside of LP incentives and community reserves) follows an annual halving schedule, described by the following function: 510,000,000*(1–0.5^year). The purpose of setting this release curve is to strongly incentivize early adopters while maintaining some long-term incentives.
+ The community issuance (outside of Liquidity Provider incentives and community reserves) follows a schedule of halving annually, described by the following function: 510,000,000*(1–0.5^year).The purpose of this issuance curve is to favorably incentive early adopters while also maintaining incentives for the long term.
 
-![](../images/distribution.png)
+### <u>What are genesis allocation of $AA?</u>
 
-### <u>What is the genesis distribution of $AA?</u>
+![](./images/distribution_en.png)
 
-1 billion $AA tokens are minted in advance in the AA smart contract, of which
+1 billion $BURN tokens would pre-minted in the BURN smart contract,of which...
 
-- 510 million pieces
+- 510 million tokens
 
-    - Put in Community account
-
-          Locking scheme
-
-             Full circulation, smart contracts are distributed through airdrop activities
-
--  490 million pieces
-
-    - Put in [Core team multi-signature account], 4 people can multi-sign
+    -  Placed in the community account
 
           Locking scheme
 
-             490 million tokens will be unlocked year by year at 25% on the 1st anniversary, 25% on the 2nd anniversary, 25% on the 3rd anniversary, and 25% on the 4th anniversary.
+             All in circulation, distributed by the airdrop activity in the smart contract.
 
-             During the annual unlocking period, the Core team conducts multi-signature distribution of the circulating tokens in this period.
+-  490 million tokens
+
+    - Placed in the [core team multi-signature account], with 4   multi-signatories
+
+           Locking Scheme
+
+             490 million tokens unlocked annually according to the following schedule: 25% on the 1st year, 25% on the 2nd year, 25% on the 3rd year, and 25% on the 4th year.
+
+             During each unlocking period, the core team adjust the distribution of tokens through multi-signature allocation.
 
 - Our Ethereum deployment address is
 
   <a href="" target="_blank" style="text-decoration: underline;">0xb0a0D86BA684e92baC4Afb76be4BCfBe755a2dc7</a>
 
-  Deployments from any other addresses should be considered invalid - <span style="font-weight:bold;">Do not</span> interact with them.
+  Deployments from any other address should be considered invalid - <span style="font-weight:bold;">Do not</span> interact with them.
 
-### <u>How do I earn $AA?</u>
+### <u> How can I earn $AA?</u>
 
-Earn $AA for any action using ArtsArena.io
+Any action on ArtsArena.io.io can earn you $AA, such as:
 
-eg
+- Participating in battles or guess bid
 
-- Participate in competition or betting
+- Sharing ArtsArena.io with friends
 
-- Share ArtsArena.io with friends
-
-- Buy or Sell NFTs on ArtsArena
+- Buying or selling NFT(s) on ArtsArena.io
 
 ### <u>Can I buy $AA directly?</u>
 
-Yes, purchase from the AMM pool on ArtsArena.io.
+Yes, you can buy $AA in the AMM pool on ArtsArena.io.
 
 ### <u>What can I do with $AA?</u>
 
- $AA holders can participate in the governance of the project, including but not limited to various gameplays, roadmaps, fee adjustments, use of treasury funds, etc.
+ $AA holders can participate in project governance, including but not limited to gameplay, roadmap adjustments, and treasury fund usage.
 
-### <u>Is there an airdrop for $AA?</u>
+### <u>Does $AA have an AIRDROP?</u>
 
-Yes, ArtsArena has reserved a portion of the airdrop tokens for players who will participate in the blind mining test in the early stages, and there may even be more than one airdrop, so please look forward to it.
+Yes, ArtsArena.io has reserved heavy amount of airdrop tokens for players participating in early blind mining tests. There may even be more than one round of airdrops, so please stay tuned.

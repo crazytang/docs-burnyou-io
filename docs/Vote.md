@@ -1,34 +1,34 @@
-# Vote (Magnifying Glass)
+# Vote(Magnifier)
 
-### What is a magnifying glass?
+### <u>What is a magnifyier?</u>
 
-The Magnifying Glass is an NFT that represents the player's voting rights for the NFTBattle on the ArtsArena platform and carries the player's appreciation of the collection. It is a kind of right.
+The magnifier is an NFT that represent voting rights of player on the ArtsArena.io battles and record the result of voting.It is a form of equity.
 
-### Why do you need a magnifying glass to vote?
+### <u>Whyis amagnifier NFT needed forvoting?</u>
 
-- Because the cost of creating N encrypted wallets is 0 and voting is based on the number of votes, an access certificate is needed to prevent vote manipulation to ensure the fairness of each vote
+- Because the cost of creating numerous cryptocurrency wallets is none,an certificate would be needed to ensure the fairness of each vote and prevent unfaithful voting.
 
-- The magnifying glass is a reflection of the appreciation of voting players
+- The magnifier NFT represents the voter's level of appreciation.
 
-- The magnifying glass is the voucher for voting players to mine (Vote2Earn)
+- The magnifier NFT serves as the proof of the voter's mining.(Vote2Earn)
 
-### How to vote using a magnifying glass?
+### <u>Howdoyouuse the magnifier NFT to vote?</u>
 
-- A wallet account can only have one magnifying glass
+- Each wallet could only carry one magnifier NFT.
 
-- A magnifying glass can only vote once for the same Battle.
+- The magnifier NFT could only vote once in one battle.
 
-### How to get a magnifying glass?
+### <u>HowcanIclaim a magnifier NFT?</u>
 
-- Buy casting
+- Minting by purchase
 
-- Whitelist casting (free)
+- Minting by whitelist(free)
 
-### Can the magnifying glass be transferred?
+### <u>Can the magnifier NFT be transferred?</u>
 
-Can't
+No.
 
-### Are there only magnifying glass rights on the platform?
+### <u>Is magnifier NFT the only NFT represent players in Artsarena.io?</u>
 
-For now, yes. But later we will combine the narrative and route to launch avatar-based basic NFTs, giving holders unique rights and interests at different times. At the same time, the second aspect will increase the sense of immersion in this role, enhance the recognition of the ArtsArena community, and allow users to gain The feeling of being the project owner and project owner.
+For now, yes. But in the future, we will introduce avatar-based basic NFT(s) combined with narrative and roadmaps, giving holders unique rights at different time periods, while also enhancing the sense of identity within the ArtsArena.io community, allowing users to experience being both a project participant and protagonist.
 

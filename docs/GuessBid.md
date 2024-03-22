@@ -1,53 +1,56 @@
-# Betting
+# Guess Bid  <span style="font-size:14px">ONLY in ArtsArena.io</span>
 
-### What is Guess Bid?
+### <u>What is Guess Bid?</u>
 
-A unique bidding and auction model for purchasing NFTs on ArtsArena. Just like a real-world dark-card auction scenario, buyers submit their bids without knowing the seller's target price. After the GuessBid ends, the buyer who is closest to the absolute value of the seller's target price above the reserve price will get the NFT, which is full of fun.
+Guess Bid is a unique auction mode for trading NFT(s) on ArtsArena.io. 
 
-### Why should I use ArtsArena for GuessBid?
+Similar to a blind auction in the real world, buyers submit their bids without knowing the seller's target price. After Guess Bid ends, the buyer whose bid is closest to the seller's target price and also above the reserve price, gets the NFT. It adds an element of fun and excitement to the NFT trading process.
 
-- For sellers, it can help me sell NFTs that I don’t want to sell at the floor price within a certain period of time, without having to passively wait for buyers.
+### <u>Why should I use ArtsArena.io for Guess Bid?</u>
 
-- For buyers, GuessBid can help me have the opportunity to purchase NFT at a price lower than the market price.
+- For sellers, Guess bid could help me sell NFT(s) that I would not like to sell at floor prices.
 
-### Rules for Guess Bid? What is a reserve price and what is a target price?
+- For buyers, Guess Bid could help me have the opportunity to purchase NFT(s) at prices lower than the market price.
 
-- Every bid in GuessBid is public, but the seller's reserve price and target price are in the form of a hidden price. Only bids above the reserve price are valid bids. Above the reserve price, the bid closest to the target price will be completed.
+### <u>The rules of Guess Bid are as follows:</u>
 
-The reserve price and target price will be disclosed after the auction ends (3 days).
+- In Guess Bid, each bid is public shown, but the seller's reserve price and target price keep unshown which something similar to a blind auction.The bids above the reserve price are considered valid ONLY. Among bids above the reserve price, the one closest to the target price will secure the deal.
 
-- Reserve price: The lowest psychological transaction price set by the seller.
+The reserve price and target price are revealed after the auction concludes, the duration of one single guess bid is 3 days.
 
-- Target price: The best psychological transaction price set by the seller.
+- Reserve Price: The lowest prices that seller is willing to sell in this guess bid game.
 
-### What is the process of betting?
+- Target Price: The optimal price that makes seller more than happy to sell.
 
-- If i were a buyer
+### <u>What is the process of Guess Bid?</u>
 
-   1. Connect to the wallet online, go to the GuessBid homepage and select the listed NFT to bid
-   2. The system checks whether the account has enough tokens
+- As a NFTbuyer:
+
+   1. Connect the wallet and enter the Guess Bid homepage to select the NFTfor bidding.
+
+   2. Thesystem checks if the account has sufficient tokens.
      
-      1. Whether to pledge, no - end
-      2. Pledge or not? Yes - continue to bid
+      1. If not enough tokens, the process ends.
+      2. If enough tokens, continue to stake and then bidding.
 
-   3. The bid was successful, waiting for the auction to end
-   4. Whether the bid is above the reserve price
+   3. Bidding successful, waiting for the auction to end.
+   4. Check if the bid meets or exceeds the reserve price.
 
-      1. Below the reserve price: out, bid amount unlocked
-      2. Above Reserve: Valid Bid
+      1. If below the reserve price: bid is invalid, get refunds.
+      2. If at or above the reserve price: bid is valid, get points.
 
-   5. Is it the closest price? Yes - transaction
+   5. Determine if the bid is the closest to the price.If yes, the deal is completed.
 
-- If i am a seller
+- As a NFTseller:
 
-   1. Connect the wallet and enter the GuessBid homepage to create a guess.
+   1. Connect the wallet and enter the Guess Bid homepage to create an guess.
 
-      1. Pledge NFT, enter reserve price and target price, and confirm creation
+      1. Stake the NFT, input the reserve price and target price, and confirm creation.
   
-   2. Waiting for buyer's bid
-   3. Auction ends
+   2. Wait for buyers to place bids.
+   3. Auction ends.
 
-      1. The number of bids = 0, the auction ends. The seller's NFT is unlocked (can be picked up by yourself)
-      2. Number of bids > 0, are there any bids above the reserve price?
+      1. If no bids were placed, the auction ends without a deal. Seller's NFT is unlocked (available for retrieval).
+      2. If bids were placed, check if there are bids at or above the reserve price.
 
-   4. The closest bid that meets the conditions is filtered out, and the transaction is completed. Unlocked buyer’s bid amount
+   4. Filter out the closest bids that meet the conditions, and finalize the deal. Unsuccessful bidders' bid amounts would be unlocked.
