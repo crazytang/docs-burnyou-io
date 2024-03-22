@@ -1,11 +1,11 @@
 # 對戰
 
 
-### <u>為什麼我要使用ArtsArena進行NFT對戰？</u>
+### <u>為什麼我要使用ArtsArena.io進行NFT對戰？</u>
 - 您對戰獲勝的NFT將有可能升值一旦在battle中獲勝，您將贏得敗方NFT
 
 - 您的對戰過程是您NFT及合輯的展示過程即使您手中的NFT戰敗，所屬NFT合集也得到了展示
-- 您參與對戰所獲得的ArtsArena平台代幣有可能升值（NFT產業進入下半場，上半場屬於生產者，下半場屬於流通平台類似ArtsArena）
+- 您參與對戰所獲得的ArtsArena.io平台代幣有可能升值（NFT產業進入下半場，上半場屬於生產者，下半場屬於流通平台類似ArtsArena.io）
 
 ### <u>為什麼我的NFT對戰獲勝後可以升值？</u>
 因為在Battle結束的同時，勝方將會獲得敗方NFT的所屬權。 勝方既可以將其嵌入在勝利的NFT上，也可單獨持有進行自由買賣。
@@ -26,8 +26,8 @@
 ### <u>我可以購買在對戰中的NFT嗎？</u>
 不可以，對戰中的NFT圍觀者不可以進行購買，只有在對戰結束後可以進行一口價購買。
 
-### <u>Polygon是ArtsArena唯一接受的對戰公鏈嗎？</u>
-不是的，ArtsArena是圍繞區塊鏈生態建立的應用。
+### <u>Polygon是ArtsArena.io唯一接受的對戰公鏈嗎？</u>
+不是的，ArtsArena.io是圍繞區塊鏈生態建立的應用。
 
 目前我們的應用層位於Polygon，如果您的NFT在Polygon主網上，您在Polygon上將NFT授權與質押後，未來所有的Battle、交易結算都將在Polygon上發生。
 
