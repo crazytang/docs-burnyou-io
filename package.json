@@ -1,6 +1,6 @@
 {
-  "name": "docs-artsarean-io",
-  "version": "1.0.0",
+  "name": "br",
+  "version": "1.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -8,8 +8,13 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.7",
     "@vuepress/client": "^2.0.0-rc.0",
+    "@vuepress/theme-default": "^2.0.0-rc.20",
     "vue": "^3.3.8",
     "vuepress": "^2.0.0-rc.0"
-  }
+  },
+  "description": "brian",
+  "repository": "git@github.com:crazytang/docs-artsarena-io.git",
+  "author": "Brian <tonightCta@gmail.com>"
 }
