@@ -1,9 +1,6 @@
-import { defaultTheme } from "@vuepress/theme-default";
-import { viteBundler } from '@vuepress/bundler-vite'
-import { defineUserConfig } from 'vuepress'
+import { defaultTheme } from 'vuepress'
 
-export default defineUserConfig({
-  bundler:viteBundler(),
+export default {
   locales: {
     // 键名是该语言所属的子路径
     // 作为特例，默认语言可以使用 '/' 作为其路径。
@@ -70,24 +67,7 @@ export default defineUserConfig({
             link: './AA.md'
           },
         ],
-      },
-    },
-    // 侧边栏数组
-    // 所有页面会使用相同的侧边栏
-
-    /*    navbar: [
-          // NavbarItem
-          {
-            text: 'Foo',
-            link: '/foo/',
-          },
-          // NavbarGroup
-          {
-            text: 'Group',
-            children: ['/group/foo.md', '/group/bar.md'],
-          },
-          // 字符串 - 页面文件路径
-          '/bar/README.md',
-        ],*/
-  }),
-})
+      }
+    }
+  })
+}
