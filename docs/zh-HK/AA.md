@@ -39,7 +39,7 @@
 
 - 我們的以太坊部署地址是
 
-  <a href="https://polygonscan.com/contract/0xb0a0D86BA684e92baC4Afb76be4BCfBe755a2dc7" target="_blank" style="text-decoration: underline;">0xb0a0D86BA684e92baC4Afb76be4BCfBe755a2dc7</a>
+  <a href="https://etherscan.io/token/0xb0a0D86BA684e92baC4Afb76be4BCfBe755a2dc7" target="_blank" style="text-decoration: underline;">0xb0a0D86BA684e92baC4Afb76be4BCfBe755a2dc7</a>
 
   來自任何其他地址的部署都應被視為無效- <span style="font-weight:bold;">不要</span> 與它們互動。
 
