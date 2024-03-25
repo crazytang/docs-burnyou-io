@@ -24,17 +24,19 @@
 
           Locking scheme
 
-             All in circulation, distributed by the airdrop activity in the smart contract.
+
+          All in circulation, distributed by the airdrop activity in the smart contract.
+
 
 -  490 million tokens
 
-    - Placed in the [core team multi-signature account], with 4   multi-signatories
+    -  Placed in the [core team multi-signature account], with 4   multi-signatories
 
-           Locking Scheme
+          Locking Scheme
 
-             490 million tokens unlocked annually according to the following schedule: 25% on the 1st year, 25% on the 2nd year, 25% on the 3rd year, and 25% on the 4th year.
+          490 million tokens unlocked annually according to the following schedule: 25% on the 1st year, 25% on the 2nd year, 25% on the 3rd year, and 25% on the 4th year.
 
-             During each unlocking period, the core team adjust the distribution of tokens through multi-signature allocation.
+          During each unlocking period, the core team adjust the distribution of tokens through multi-signature allocation.
 
 - Our Ethereum deployment address is
 
