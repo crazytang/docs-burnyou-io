@@ -4,7 +4,7 @@
 
 The magnifier is an NFT that represent voting rights of player on the ArtsArena.io battles and record the result of voting.It is a form of equity.
 
-### <u>Whyis amagnifier NFT needed forvoting?</u>
+###  <u>Whyis amagnifier NFT needed forvoting?</u>
 
 - Because the cost of creating numerous cryptocurrency wallets is none,an certificate would be needed to ensure the fairness of each vote and prevent unfaithful voting.
 
